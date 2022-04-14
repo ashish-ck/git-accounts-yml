@@ -5,20 +5,13 @@
     "provider": "https://www.opsmx.com",
     "releases": [
       {
-        "version": "0.0.1",
-        "date": "2020-08-28T17:57:16.588Z",
-        "requires": "clouddriver>=5.0.0",
-        "sha512sum": "caa36620a1905d6cb0a85d57a95811841e9f1856bf1bf7ed8b38e47e4933c180aa26494f0bfa3bf7628edf96fc4366113dae05ba33f1e82040ab6a494440250e",
+        "version": "1.2.0",
+        "date": "2022-04-14T12:03:49.215998Z",
+        "requires": "clouddriver>=7.1.0",
+        "sha512sum": "baec9cde981259cc65ffac8d949b70ecb62cd5215b636c97a80d674b1246c9f0e7c7f577f487aa0cb46b7407511243dffc9a92e4b86cb1b702e6de5041357327",
         "state": "RELEASE",
-        "url": "https://github.com/ashish-ck/git-account-registration-plugin-spinnaker/releases/download/0.0.1/git-account-registration-plugin-spinnaker-0.0.1.zip"
-      },
-      {
-        "version": "0.0.2",
-        "date": "2020-09-21T19:14:01.879Z",
-        "requires": "clouddriver>=5.0.0",
-        "sha512sum": "bec68430acd577b21e45907965d180c393e437844bf4c9056b08149c8d2716f256b7359cd5a9f3d6bb4d017ab86b0485c8906766ccbf49835ea85a5d16ac19ae",
-        "state": "RELEASE",
-        "url": "https://github.com/ashish-ck/git-account-registration-plugin-spinnaker/releases/download/0.0.2/git-account-registration-plugin-spinnaker-0.0.2.zip"
+        "preferred": false,
+        "url": "https://github.com/ashish-ck/git-account-registration-plugin-spinnaker/releases/download/1.2.0/git-account-registration-plugin-spinnaker-1.2.0.zip"
       }
     ]
   }
