@@ -5,10 +5,10 @@
     "provider": "https://www.opsmx.com",
     "releases": [
       {
-        "version": "1.2.0",
-        "date": "2022-04-14T12:03:49.215998Z",
+        "version": "0.0.1",
+        "date": "2022-04-14T12:37:26.345736Z",
         "requires": "clouddriver>=7.1.0",
-        "sha512sum": "baec9cde981259cc65ffac8d949b70ecb62cd5215b636c97a80d674b1246c9f0e7c7f577f487aa0cb46b7407511243dffc9a92e4b86cb1b702e6de5041357327",
+        "sha512sum": "c1718c3f68047648c99e2942d12cfb2f38ab19eda637afa84bd1f8fad2a63acb11bdb601f68ad22bda57d8c5e6d82385c15969b0f217c250a41c4288579be395",
         "state": "RELEASE",
         "preferred": false,
         "url": "https://github.com/ashish-ck/git-account-registration-plugin-spinnaker/releases/download/1.2.0/git-account-registration-plugin-spinnaker-1.2.0.zip"
