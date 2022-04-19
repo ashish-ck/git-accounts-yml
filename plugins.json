@@ -6,9 +6,9 @@
     "releases": [
       {
         "version": "0.0.1",
-        "date": "2022-04-18T04:19:55.620548Z",
+        "date": "2022-04-19T12:50:34.440658Z",
         "requires": "clouddriver>=7.1.0",
-        "sha512sum": "3fa700c6cef5f24b329a12b1ef2f2b1875e121727351586871963944e54d97e665571aa3cd2179d51b0fd20dcc93639fe66f49451bf370408dd39bf7ee23c65b",
+        "sha512sum": "15ec5eb159f4306692e7f8c246a5cef046f2c806838fe623f4cdfb28e7e8e82c35d5aa652b57fda293483b6d86df0514fa4ad73b5b7fd766166ad24942914034",
         "state": "RELEASE",
         "preferred": false,
         "url": "https://github.com/ashish-ck/git-account-registration-plugin-spinnaker/releases/download/0.0.1/git-account-registration-plugin-spinnaker-0.0.1.zip"
