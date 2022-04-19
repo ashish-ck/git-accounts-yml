@@ -11,7 +11,7 @@
         "sha512sum": "15ec5eb159f4306692e7f8c246a5cef046f2c806838fe623f4cdfb28e7e8e82c35d5aa652b57fda293483b6d86df0514fa4ad73b5b7fd766166ad24942914034",
         "state": "RELEASE",
         "preferred": false,
-        "url": "https://github.com/ashish-ck/git-account-registration-plugin-spinnaker/releases/download/0.0.1/git-account-registration-plugin-spinnaker-0.0.1.zip"
+        "url": "https://github.com/ashish-ck/git-account-registration-plugin-spinnaker/archive/refs/tags/0.0.1.zip"
       }
     ]
   }
