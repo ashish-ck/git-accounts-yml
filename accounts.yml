@@ -1,7 +1,7 @@
 google:
   enabled: true
   accounts:
-  - name: spinnaker-gce-account
+  - name: spinnaker-gce-account-v2
     requiredGroupMembership: []
     permissions:
       WRITE:
@@ -15,7 +15,7 @@ google:
       agentEndpoint: localhost
       agentPort: 8500
       datacenters: []
-  primaryAccount: spinnaker-gce-account
+  primaryAccount: spinnaker-gce-account-v2
   bakeryDefaults:
     templateFile: gce.json
     baseImages: []
