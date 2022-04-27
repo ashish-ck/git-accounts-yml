@@ -15,7 +15,21 @@ google:
       agentEndpoint: localhost
       agentPort: 8500
       datacenters: []
-  primaryAccount: spinnaker-gce-account-v1.2.1
+  - name: spinnaker-gce-account-v1.2.2
+    requiredGroupMembership: []
+    permissions:
+      WRITE:
+      - compute.projects.write
+    project: opsmx-ggproject-2022
+    jsonPath: encryptedFile:gcs!b:gce-accounts-v1!f:gce-account.json
+    alphaListed: false
+    imageProjects: []
+    consul:
+      enabled: false
+      agentEndpoint: localhost
+      agentPort: 8500
+      datacenters: []
+  primaryAccount: spinnaker-gce-account-v1.2.2
   bakeryDefaults:
     templateFile: gce.json
     baseImages: []
