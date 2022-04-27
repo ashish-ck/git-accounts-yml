@@ -7,7 +7,7 @@ google:
       WRITE:
       - compute.projects.write
     project: opsmx-ggproject-2022
-    jsonPath: /home/ashish/.gcp/gce-account.json
+    jsonPath: encryptedFile:gcs!b:gce-accounts-v1!f:gce-accounts.json
     alphaListed: false
     imageProjects: []
     consul:
